@@ -120,19 +120,10 @@ Durante el desarrollo de este proyecto, he aprendido a:
 -   **Interacción con el usuario**: Mejoré la experiencia de usuario con un bucle que permite realizar varias consultas de Pokémon sin necesidad de reiniciar la aplicación.
 -  **Organización de proyectos en GitHub**: Aprendí a crear y organizar un repositorio en GitHub, documentando cada parte del proyecto para facilitar su uso por otros desarrolladores.
 
-## Instrucciones de Instalación
-Para poder ejecutar este proyecto, necesitas tener instaladas algunas bibliotecas de Python. A continuación, se indican las instrucciones para instalar las dependencias:
+""""""""""""""""""""""""""""""""
+""""""""""""""""""""""""""""""""
 
-### Dependencias
-- `requests`
-- `matplotlib`
-- `pillow`
+Como podrán ver dejé adjuntada una carpeta llamada "Pokedex" en la cual están todos los json de prueba que mis códigos funcionan, tanto al buscar a un Pokemon con su ID o con su nombre. 
 
-### Instalación
-Ejecuta los siguientes comandos en tu terminal para instalar las bibliotecas necesarias:
-
-```bash
-pip install requests
-pip install matplotlib
-pip install pillow
-
+""""""""""""""""""""""""""""""""
+""""""""""""""""""""""""""""""""
