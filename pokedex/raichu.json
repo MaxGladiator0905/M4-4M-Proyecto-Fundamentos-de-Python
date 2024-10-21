@@ -1,0 +1,25 @@
+{
+    "name": "Raichu",
+    "weight": 300,
+    "height": 8,
+    "abilities": [
+        "static",
+        "lightning-rod"
+    ],
+    "moves": [
+        "mega-punch",
+        "pay-day",
+        "thunder-punch",
+        "slam",
+        "mega-kick",
+        "headbutt",
+        "body-slam",
+        "take-down",
+        "double-edge",
+        "tail-whip"
+    ],
+    "types": [
+        "electric"
+    ],
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/26.png"
+}

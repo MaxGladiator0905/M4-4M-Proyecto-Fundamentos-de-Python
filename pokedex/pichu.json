@@ -1,0 +1,25 @@
+{
+    "name": "Pichu",
+    "weight": 20,
+    "height": 3,
+    "abilities": [
+        "static",
+        "lightning-rod"
+    ],
+    "moves": [
+        "double-slap",
+        "mega-punch",
+        "thunder-punch",
+        "mega-kick",
+        "headbutt",
+        "body-slam",
+        "take-down",
+        "double-edge",
+        "tail-whip",
+        "surf"
+    ],
+    "types": [
+        "electric"
+    ],
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/172.png"
+}

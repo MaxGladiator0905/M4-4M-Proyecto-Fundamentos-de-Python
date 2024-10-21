@@ -1,0 +1,25 @@
+{
+    "name": "Squirtle",
+    "weight": 90,
+    "height": 5,
+    "abilities": [
+        "torrent",
+        "rain-dish"
+    ],
+    "moves": [
+        "mega-punch",
+        "ice-punch",
+        "mega-kick",
+        "headbutt",
+        "tackle",
+        "body-slam",
+        "take-down",
+        "double-edge",
+        "tail-whip",
+        "bite"
+    ],
+    "types": [
+        "water"
+    ],
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/7.png"
+}

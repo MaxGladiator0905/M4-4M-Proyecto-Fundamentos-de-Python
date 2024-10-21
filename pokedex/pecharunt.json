@@ -1,0 +1,25 @@
+{
+    "name": "Pecharunt",
+    "weight": 3,
+    "height": 3,
+    "abilities": [
+        "poison-puppeteer"
+    ],
+    "moves": [
+        "toxic",
+        "night-shade",
+        "recover",
+        "withdraw",
+        "defense-curl",
+        "smog",
+        "poison-gas",
+        "rest",
+        "substitute",
+        "curse"
+    ],
+    "types": [
+        "poison",
+        "ghost"
+    ],
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1025.png"
+}

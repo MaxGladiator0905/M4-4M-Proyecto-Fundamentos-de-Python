@@ -1,0 +1,25 @@
+{
+    "name": "Charmander",
+    "weight": 85,
+    "height": 6,
+    "abilities": [
+        "blaze",
+        "solar-power"
+    ],
+    "moves": [
+        "mega-punch",
+        "fire-punch",
+        "thunder-punch",
+        "scratch",
+        "swords-dance",
+        "cut",
+        "wing-attack",
+        "mega-kick",
+        "headbutt",
+        "body-slam"
+    ],
+    "types": [
+        "fire"
+    ],
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png"
+}

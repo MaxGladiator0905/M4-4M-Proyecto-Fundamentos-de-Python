@@ -1,0 +1,25 @@
+{
+    "name": "Pikachu",
+    "weight": 60,
+    "height": 4,
+    "abilities": [
+        "static",
+        "lightning-rod"
+    ],
+    "moves": [
+        "mega-punch",
+        "pay-day",
+        "thunder-punch",
+        "slam",
+        "double-kick",
+        "mega-kick",
+        "headbutt",
+        "body-slam",
+        "take-down",
+        "double-edge"
+    ],
+    "types": [
+        "electric"
+    ],
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png"
+}

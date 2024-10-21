@@ -1,0 +1,26 @@
+{
+    "name": "1",
+    "weight": 69,
+    "height": 7,
+    "abilities": [
+        "overgrow",
+        "chlorophyll"
+    ],
+    "moves": [
+        "razor-wind",
+        "swords-dance",
+        "cut",
+        "bind",
+        "vine-whip",
+        "headbutt",
+        "tackle",
+        "body-slam",
+        "take-down",
+        "double-edge"
+    ],
+    "types": [
+        "grass",
+        "poison"
+    ],
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png"
+}

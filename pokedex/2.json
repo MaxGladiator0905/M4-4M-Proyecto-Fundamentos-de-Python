@@ -1,0 +1,26 @@
+{
+    "name": "2",
+    "weight": 130,
+    "height": 10,
+    "abilities": [
+        "overgrow",
+        "chlorophyll"
+    ],
+    "moves": [
+        "swords-dance",
+        "cut",
+        "bind",
+        "vine-whip",
+        "headbutt",
+        "tackle",
+        "body-slam",
+        "take-down",
+        "double-edge",
+        "growl"
+    ],
+    "types": [
+        "grass",
+        "poison"
+    ],
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/2.png"
+}

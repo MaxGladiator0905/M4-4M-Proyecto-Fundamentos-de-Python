@@ -1,0 +1,20 @@
+{
+    "name": "Weedle",
+    "weight": 32,
+    "height": 3,
+    "abilities": [
+        "shield-dust",
+        "run-away"
+    ],
+    "moves": [
+        "poison-sting",
+        "string-shot",
+        "bug-bite",
+        "electroweb"
+    ],
+    "types": [
+        "bug",
+        "poison"
+    ],
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/13.png"
+}

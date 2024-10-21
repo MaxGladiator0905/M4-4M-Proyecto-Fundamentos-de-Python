@@ -1,0 +1,25 @@
+{
+    "name": "Charmeleon",
+    "weight": 190,
+    "height": 11,
+    "abilities": [
+        "blaze",
+        "solar-power"
+    ],
+    "moves": [
+        "mega-punch",
+        "fire-punch",
+        "thunder-punch",
+        "scratch",
+        "swords-dance",
+        "cut",
+        "mega-kick",
+        "headbutt",
+        "body-slam",
+        "take-down"
+    ],
+    "types": [
+        "fire"
+    ],
+    "image_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/5.png"
+}
