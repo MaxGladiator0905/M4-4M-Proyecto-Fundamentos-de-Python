@@ -1,3 +1,6 @@
+###### El código proporcionado es un proyecto de Pokédex en Python con una interfaz gráfica creada usando Tkinter. Espero sea de su agrado :)
+
+
 import requests
 import json
 import os
