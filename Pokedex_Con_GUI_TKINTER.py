@@ -1,5 +1,20 @@
-###### El código proporcionado es un proyecto de Pokédex en Python con una interfaz gráfica creada usando Tkinter. Espero sea de su agrado :)
+# El código utiliza la biblioteca requests para hacer peticiones a la API de pokeapi.co y obtener información de un Pokémon basado en su nombre o ID.
 
+#  La interfaz gráfica se construye con tkinter, configurada para simular una Pokédex con un estilo rojo y blanco.
+
+#   La ventana incluye etiquetas para mostrar la información del Pokémon (nombre, ID, peso, altura, habilidades y movimientos).
+
+#    La imagen del Pokémon se muestra y se redimensiona para que encaje en la interfaz.
+
+#   La función cargar_pokemon se encarga de buscar la información del Pokémon y manejar errores si el Pokémon no es encontrado o si hay problemas de conexión.
+
+#  La función mostrar_pokemon despliega la información en la ventana.
+
+# La función guardar_pokemon guarda la información del Pokémon en un archivo .json dentro de la carpeta pokedex.
+
+
+
+###### El código proporcionado es un proyecto de Pokédex en Python con una interfaz gráfica creada usando Tkinter. Espero sea de su agrado :)
 
 import requests
 import json
